@@ -1,0 +1,10 @@
+# Line ending configuration
+*.sh text eol=lf
+*.bat text eol=crlf
+*.java text eol=lf
+*.txt text eol=lf
+
+# Binary files
+*.class binary
+*.jar binary
+*.png binary
